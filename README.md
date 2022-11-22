@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 Meu nome é Alessandra, mas pode me chamar de Alê!
 
 Sou Desenvolvedora e apaixonada por desafios 😍!
+
+#### Techs 🚀
+
+- HTML
+- CSS
+- JavaScript
+- React
+- NodeJs
+- SQL
+- Java
